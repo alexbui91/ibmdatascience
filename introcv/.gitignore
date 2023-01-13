@@ -1,0 +1,7 @@
+data
+*.png
+*.jpg
+*.jpeg
+.ipynb_checkpoints
+*.pt
+*.bmp
